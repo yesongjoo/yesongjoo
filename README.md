@@ -6,8 +6,8 @@ I'm currently interning at Tensor Halo and am seeking opportunities for the next
 - 🔭 I’m currently interning at Tensor Halo.
 - 🏫 I studied web development at Tamwood College.
 - 👨‍💻 Portfolio: https://yesongjoo.netlify.app/
-- ✉️ Email: yesong.joo@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/yesong-joo
+- ✉️ Email: yesong.joo@gmail.com
 
 
 
