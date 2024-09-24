@@ -1,6 +1,6 @@
 <h1>Hi, i'm Yesong! 👋 </h1>
 
-I'm a frontend developer with a keen eye for design and aesthetics. 
+I'm a frontend developer with a keen eye for design and aesthetics. </br>
 I'm urrently interning at Tensor Halo and am seeking opportunities for the next phase of my growth.
 
 - 🔭 I’m currently interning at Tensor Halo.
