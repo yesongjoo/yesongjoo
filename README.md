@@ -11,7 +11,8 @@ I'm currently interning at Tensor Halo and am seeking opportunities for the next
 
 </hr>
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</br>
+</br>
           
 ### Languages and Tools:
 
