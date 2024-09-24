@@ -28,5 +28,7 @@ I'm currently interning at Tensor Halo and am seeking opportunities for the next
 <img align="left" alt="illustrator" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"  style="padding-right:10px;"/>
 
 </br>
+</br>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesongjoo&show_icons=true&locale=en&layout=compact" alt="yesongjoo" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesongjoo&show_icons=true&locale=en&layout=compact" alt="yesongjoo" />
+
