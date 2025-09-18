@@ -2,8 +2,6 @@
 
 I'm a frontend developer.
 
-- 🔭 I’m currently interning at Tensor Halo.
-- 🏫 I studied web development at Tamwood College.
 - 👨‍💻 Portfolio: https://yesongjoo.netlify.app/
 - 🔗 LinkedIn: www.linkedin.com/in/yesong-joo
 - ✉️ Email: yesong.joo7@gmail.com
